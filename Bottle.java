@@ -1,5 +1,6 @@
 package com.company;
 
+//comment to check commit
 public class Bottle {      // 11.11.2020
 
     private double waterAmount; // That´s how much water is currently in the bottle. 2l is max
